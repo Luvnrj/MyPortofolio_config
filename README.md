@@ -4,7 +4,7 @@
 
 👀 I’m interested in a QA Manual Tester role.
 
-🐱‍🏍 I’m currently volunteering as a QA Manual tester in developing Asociatia Oportunitati si Cariere project in order to deepen the manual testing knowledge I've aquired so far.
+🐱‍🏍 I’m currently volunteering as a QA Manual tester in developing Asociatia Oportunitati si Cariere project where I can apply the manual testing knowledge I've aquired so far.
 
 🧐 I’m looking to collaborate on QA Manual Testing positions.
 
